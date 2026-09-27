@@ -35,7 +35,8 @@ R10 Webmaster Tycoon, tarayıcı üzerinden oynanabilen, gerçek zamanlı bir di
 - **Personel ve Ajans Yönetimi (Otomasyon)**: Junior Developer, SEO Editor ve SysAdmin kiralayarak iş süreçlerini otomatikleştirin ve sunucu yükünü hafifletin.
 - **Sıfır Bağımlılık (Zero Dependency)**: Backend tamamen saf Node.js ile (hiçbir npm paketi olmadan) yazılmış olup JSON tabanlı veritabanı motoru içerir.
 - **Gelişmiş Hile Koruması (Anti-Cheat)**: AFK algılama, Tab-Blur dondurma ve sunucu taraflı yetkilendirme ile haksız kazancın önüne geçilmiştir.
-- **Canlı Admin & God-Mode Paneli**: Yöneticilerin canlı kriz tetikleyebildiği, duyuru geçebildiği, kullanıcı hesaplarını anlık manipüle edebildiği güvenli yönetim konsolu.
+- **Gelişmiş Reklam & Sponsorluk Sistemi**: Admin panel üzerinden Rewarded Video (Ödüllü Reklamlar) ve Statik Banner entegrasyonu (Canlı panel üzerinden yönetilebilir).
+- **Canlı Admin & God-Mode Paneli**: Yöneticilerin canlı kriz tetikleyebildiği, reklam ayarlarını değiştirebildiği, kullanıcı hesaplarını anlık manipüle edebildiği güvenli yönetim konsolu.
 
 ---
 
@@ -67,7 +68,8 @@ R10 Webmaster Tycoon is a real-time digital agency and webmaster simulation game
 - **Agency & Staff Management (Automation)**: Hire Junior Developers, SEO Editors, and SysAdmins to automate workflows and reduce server overhead.
 - **Zero Dependency Architecture**: The backend is written in pure Node.js (without any npm dependencies) utilizing a custom JSON-based flat-file database engine.
 - **Advanced Anti-Cheat**: Prevents unfair advantages using AFK detection, Tab-Blur freezing, and server-side authority locks.
-- **Live Admin & God-Mode Console**: Secure command center for administrators to trigger live crises, broadcast server-wide banners, and inject player stats in real-time.
+- **Advanced Ad & Sponsorship System**: Rewarded Video and Static Banner integration manageable via the live admin console.
+- **Live Admin & God-Mode Console**: Secure command center for administrators to trigger live crises, update ad settings, and inject player stats in real-time.
 
 ---
 
